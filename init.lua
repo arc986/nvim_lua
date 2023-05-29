@@ -1,0 +1,5 @@
+require('options')
+require('keymaps')
+require('manager/paq')
+require('plugins')
+require('cmd')
